@@ -5,7 +5,8 @@ Exploratory autonomous quadcopter prototype utilizing optical flow navigation an
 ## Flight Demo
 
 
-https://github.com/user-attachments/assets/eeae66b6-b00e-42d4-9cf6-ab6cb55fc6b2
+https://github.com/user-attachments/assets/db32ef53-f81d-46b7-8475-68eeeb76649f
+
 
 ## System Architecture
 Instead of relying on an off-the-shelf flight controller, this UAV uses a custom dual-core **ESP32** architecture paired with a chassis-mounted **smartphone acting as an onboard companion computer**:
