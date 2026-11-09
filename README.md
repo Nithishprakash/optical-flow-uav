@@ -2,8 +2,13 @@
 
 Exploratory autonomous quadcopter prototype utilizing optical flow navigation and a custom ESP32 flight controller, benchmarked against ISRO competition specifications.
 
-## Flight Demo & Hardware
+## Flight Demo
 
+
+https://github.com/user-attachments/assets/eeae66b6-b00e-42d4-9cf6-ab6cb55fc6b2
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/eeae66b6-b00e-42d4-9cf6-ab6cb55fc6b2" controls></video>
+</div>
 
 ## System Architecture
 Instead of relying on an off-the-shelf flight controller, this UAV uses a custom dual-core **ESP32** architecture paired with a chassis-mounted **smartphone acting as an onboard companion computer**:
